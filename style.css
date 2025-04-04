@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/8b/60/d2/8b60d24d3f4334cba1232210cc474439.jpg);
+    color: #94A684;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    text-align: center;
+}
+
+.card {
+    background-color: #F3EEEA;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border: none;
+}
+
+.form-control {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.btn-success {
+    width: 100%;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+.footer {
+    background-color: #EADDDD;
+    border: 10px solid;
+    color: #80AF81;
+    margin-top: 50px;
+    padding: 20px;
+    text-align:center;
+}
